@@ -1,4 +1,14 @@
 # Hello
+This is a proof of concept for the creator's python tools and docker images.
 
-This package is formatted to be installable with pip. It also contains a Dockerfile.
-The creator herself created this package as a proof of concept for standardizing her python tools.
+## Installation
+### with docker
+From within the project's root directory:
+```bash
+docker build -t hello .
+```
+
+### with pip
+From within the project's root directory:
+```bash
+pip install .
