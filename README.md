@@ -1,5 +1,6 @@
 # Hello
 This is a proof of concept for the creator's python tools and docker images.
+This is building off of the [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/) tutorial.
 
 ## Installation
 ### with docker
